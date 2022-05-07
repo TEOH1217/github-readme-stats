@@ -445,3 +445,5 @@ Thanks! :heart:
 Contributions are welcome! <3
 
 Made with :heart: and JavaScript.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEOH1217)](https://github.com/anuraghazra/github-readme-stats)
